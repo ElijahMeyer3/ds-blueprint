@@ -16,12 +16,14 @@ As the demand for jobs in data science increases, so does the demand for univers
 
 This repository contains reproducible material to help create, develop, and modernize your own introductory to data science course. 
 
--- A scaffolded in-class exercise can be found in the *example-ae* folder above
+-- A scaffolded in-class exercise on tidying data can be found in the *example-ae* folder above
+
+-- An example supplemental video to a lesson on tidying data can be found [here](https://www.youtube.com/watch?v=Ux85eR3h9hw)
 
 -- Example code to invite students into your GitHub organization, and distribute individual repositories to students can be found in the *github-classroom* folder above
 
 -- The Data Science in a Box curriculum can be found [here](https://datasciencebox.org/hello)
 
--- An example supplemental video to a lesson can be found [here](https://www.youtube.com/watch?v=Ux85eR3h9hw)
+
 
 
