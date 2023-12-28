@@ -1,6 +1,6 @@
 # A Blueprint to Design Curriculum and Pedagogy for Introductory Data Science
 
-[Elijah Meyer](https://elijahmeyer3.github.io/) - Duke University \\
+[Elijah Meyer](https://elijahmeyer3.github.io/) - Duke University \
 [Mine Çetinkaya-Rundel](https://mine-cr.com/) - Posit and Duke University
 
 To cite this article:
