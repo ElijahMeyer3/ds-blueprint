@@ -18,7 +18,7 @@ This repository contains reproducible material to help create, develop, and mode
 
 -- A scaffolded in-class exercise (and the solutions) on tidying data can be found in the *example-ae* folder above
 
--- An example supplemental video to a lesson on tidying data can be found [here](https://www.youtube.com/watch?v=Ux85eR3h9hw)
+-- An example prepare video to a lesson on tidying data can be found [here](https://www.youtube.com/watch?v=Ux85eR3h9hw)
 
 -- Example code to invite students into your GitHub organization, and distribute individual repositories to students can be found in the *github-classroom* folder above
 
