@@ -24,6 +24,8 @@ This repository contains reproducible material to help create, develop, and mode
 
 -- The Data Science in a Box curriculum can be found [here](https://datasciencebox.org/hello)
 
+## More Information 
 
+If you want more information on how to distribute individual or team assessments to your students, or want information to help you configure GitHub and RStudio, please click [here](https://rundel.github.io/ghclass/articles/ghclass.html)
 
 
