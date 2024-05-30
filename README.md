@@ -1,6 +1,7 @@
 # A Blueprint to Design Curriculum and Pedagogy for Introductory Data Science
 
 Author 1 
+
 Author 2
 
 To cite this article:
