@@ -1,8 +1,8 @@
 # A Blueprint to Design Curriculum and Pedagogy for Introductory Data Science
 
-Author 1 
+Author 1: Dr. Elijah Meyer (NC State University) 
 
-Author 2
+Author 2: Dr. Mine Çetinkaya-Rundel (Duke University)
 
 To cite this article:
 
